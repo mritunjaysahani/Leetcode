@@ -134,6 +134,7 @@ A collection of leetcode problems and my solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
 ## String
@@ -176,6 +177,7 @@ A collection of leetcode problems and my solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
