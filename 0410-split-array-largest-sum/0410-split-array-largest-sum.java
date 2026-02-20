@@ -1,29 +1,41 @@
 class Solution {
-    public static int func(int arr[],int mid){
-        int n=arr.length;
-        int c=1,sum=0;
-        for(int i=0;i<n;i++){
-            if(sum+arr[i]<=mid) sum+=arr[i];
-            else{
-                c++;
+    public boolean split(int arr[],int k,int maxSum){
+        int cnt=1,sum=arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(sum+arr[i]>maxSum){
+                cnt++;
                 sum=arr[i];
             }
-            
+            else sum+=arr[i];
         }
-        return c;
+        return cnt<=k;
     }
-    public int splitArray(int[] arr, int k) {
-        int low=Integer.MIN_VALUE,high=0;
+    public int sum(int arr[]){
+        int Sum=0;
         for(int i=0;i<arr.length;i++){
-            low=Math.max(arr[i],low);
-            high+=arr[i];
+            Sum+=arr[i];
         }
+        return Sum;
+    }
+    public int findMax(int arr[]){
+        int maxE=arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]>maxE) maxE=arr[i];
+        }
+        return maxE;
+    }
+    public int splitArray(int[] nums, int k) {
+        int n=nums.length;
+        int low=findMax(nums);
+        int high=sum(nums),ans=0;
         while(low<=high){
             int mid=(low+high)/2;
-            int cnt=func(arr,mid);
-            if(cnt>k) low=mid+1;
-            else high=mid-1;
+            if(split(nums,k,mid)){
+                ans=mid;
+                high=mid-1;
+            }
+            else low=mid+1;
         }
-        return low;
+        return ans;
     }
 }
