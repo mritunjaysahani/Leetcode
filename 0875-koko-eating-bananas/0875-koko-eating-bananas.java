@@ -6,20 +6,20 @@ class Solution {
         }
         return Maxi;
     }
-    public int calculateHours(int arr[],int h,int hourly){
+    public boolean calculateHours(int arr[],int h,int hourly){
          int totalH=0;
         for(int i=0;i<arr.length;i++){
             totalH+=Math.ceil((double)(arr[i])/(double)(hourly));
         }
-        return totalH;
+        return totalH<=h;
     }
     public int minEatingSpeed(int[] arr, int h) {
         int low=0,ans=0;
         int high=max(arr);
         while(low<=high){
             int mid=(low+high)/2;
-            int totalH=calculateHours(arr,h,mid);
-            if(totalH<=h){
+            boolean totalH=calculateHours(arr,h,mid);
+            if(totalH){
                 ans=mid;
                 high =mid-1;
 
