@@ -85,6 +85,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mritunjay-255/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mritunjay-255/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -189,6 +190,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
@@ -233,6 +235,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
