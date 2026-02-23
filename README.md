@@ -40,6 +40,7 @@ A collection of leetcode problems and my solutions.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mritunjay-255/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mritunjaysahani/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mritunjaysahani/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -67,6 +68,7 @@ A collection of leetcode problems and my solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mritunjay-255/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mritunjaysahani/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mritunjaysahani/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mritunjaysahani/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
