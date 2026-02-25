@@ -6,6 +6,7 @@ A collection of leetcode problems and my solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
@@ -130,6 +131,7 @@ A collection of leetcode problems and my solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mritunjay-255/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/mritunjay-255/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mritunjay-255/Leetcode/tree/master/0141-linked-list-cycle) |
