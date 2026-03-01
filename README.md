@@ -15,6 +15,7 @@ A collection of leetcode problems and my solutions.
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mritunjay-255/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/mritunjaysahani/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -204,6 +205,7 @@ A collection of leetcode problems and my solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -257,4 +259,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
