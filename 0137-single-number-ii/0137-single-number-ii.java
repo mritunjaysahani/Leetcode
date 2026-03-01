@@ -1,12 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-      Map<Integer,Integer>mp=new HashMap<>();
-      for(int i=0;i<nums.length;i++){
-        mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
-      }  
-      for(Map.Entry<Integer,Integer>entry:mp.entrySet()){
-        if(entry.getValue()==1) return entry.getKey();
-      }
-      return -1;
+    int ans=0;
+    for(int bitIndex=0;bitIndex<=31;bitIndex++){
+        int cnt=0;
+        for(int i=0;i<nums.length;i++){
+            if((nums[i]&(1<<bitIndex))!=0) cnt++;
+        }
+        if(cnt%3==1){
+            ans=ans|(1<<bitIndex);
+        }
+        
+    }
+    return ans;
     }
 }
