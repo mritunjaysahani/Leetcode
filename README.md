@@ -31,6 +31,7 @@ A collection of leetcode problems and my solutions.
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -68,6 +69,7 @@ A collection of leetcode problems and my solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -168,6 +170,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
 ## String
 |  |
@@ -234,6 +237,7 @@ A collection of leetcode problems and my solutions.
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -270,4 +274,16 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
