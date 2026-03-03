@@ -182,6 +182,7 @@ A collection of leetcode problems and my solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -266,6 +267,7 @@ A collection of leetcode problems and my solutions.
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
