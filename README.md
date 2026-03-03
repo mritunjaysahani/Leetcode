@@ -7,6 +7,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
@@ -59,6 +60,7 @@ A collection of leetcode problems and my solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
@@ -168,6 +170,7 @@ A collection of leetcode problems and my solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/mritunjaysahani/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
