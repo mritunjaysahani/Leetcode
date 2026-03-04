@@ -58,6 +58,7 @@ A collection of leetcode problems and my solutions.
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mritunjay-255/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mritunjay-255/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/mritunjaysahani/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of leetcode problems and my solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mritunjaysahani/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mritunjaysahani/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/mritunjaysahani/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,4 +299,5 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/mritunjaysahani/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
