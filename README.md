@@ -51,6 +51,7 @@ A collection of leetcode problems and my solutions.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mritunjaysahani/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mritunjaysahani/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mritunjaysahani/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mritunjaysahani/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mritunjaysahani/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -144,6 +145,7 @@ A collection of leetcode problems and my solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mritunjaysahani/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/mritunjaysahani/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
