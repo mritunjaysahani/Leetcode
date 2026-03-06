@@ -44,6 +44,7 @@ A collection of leetcode problems and my solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mritunjaysahani/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mritunjay-255/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +173,7 @@ A collection of leetcode problems and my solutions.
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mritunjaysahani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -180,6 +182,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -253,6 +256,7 @@ A collection of leetcode problems and my solutions.
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mritunjaysahani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
