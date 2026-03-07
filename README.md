@@ -126,6 +126,7 @@ A collection of leetcode problems and my solutions.
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of leetcode problems and my solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mritunjaysahani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -268,6 +270,7 @@ A collection of leetcode problems and my solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mritunjaysahani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
