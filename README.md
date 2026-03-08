@@ -59,6 +59,7 @@ A collection of leetcode problems and my solutions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mritunjaysahani/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mritunjaysahani/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mritunjay-255/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -181,6 +182,7 @@ A collection of leetcode problems and my solutions.
 | [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mritunjaysahani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -214,6 +216,7 @@ A collection of leetcode problems and my solutions.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -317,6 +320,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
