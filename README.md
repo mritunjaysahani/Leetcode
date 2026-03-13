@@ -8,6 +8,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0001-two-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -98,6 +99,7 @@ A collection of leetcode problems and my solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/mritunjaysahani/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -231,6 +233,7 @@ A collection of leetcode problems and my solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
