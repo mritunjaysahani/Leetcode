@@ -115,6 +115,7 @@ A collection of leetcode problems and my solutions.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
@@ -314,6 +315,7 @@ A collection of leetcode problems and my solutions.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
