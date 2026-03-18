@@ -118,6 +118,7 @@ A collection of leetcode problems and my solutions.
 | [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/mritunjaysahani/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mritunjay-255/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
