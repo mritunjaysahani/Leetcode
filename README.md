@@ -131,6 +131,7 @@ A collection of leetcode problems and my solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -214,6 +215,7 @@ A collection of leetcode problems and my solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/mritunjay-255/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mritunjay-255/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mritunjaysahani/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mritunjaysahani/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -331,6 +333,7 @@ A collection of leetcode problems and my solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Binary Indexed Tree
