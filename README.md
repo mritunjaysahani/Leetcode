@@ -118,6 +118,7 @@ A collection of leetcode problems and my solutions.
 | [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mritunjay-255/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mritunjaysahani/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
@@ -133,6 +134,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
@@ -363,6 +365,7 @@ A collection of leetcode problems and my solutions.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
