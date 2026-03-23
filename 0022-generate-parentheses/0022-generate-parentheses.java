@@ -1,15 +1,15 @@
 class Solution {  
-    public void  braces(String curr, int open, int close, int n, List<String> res){
-                if (curr.length() == 2 * n) {
-                  res.add(curr);
-                  return;
-             }
-    if (open < n)  braces(curr + "(", open + 1, close, n, res);
-    if (close < open)  braces(curr + ")", open, close + 1, n, res);
-  }
+    public static void braces(int open,int close,int i,int n,String temp,List<String>ans){
+        if(temp.length()==2*n){
+            ans.add(temp);
+            return;
+        }
+        if(open<n) braces(open+1,close,i+1,n,temp+"(",ans);
+        if(close <open) braces(open,close+1,i+1,n,temp+")",ans);
+    }
   public List<String> generateParenthesis(int n) {
-     List<String> res = new ArrayList<>();
-    braces("", 0, 0, n, res);
-        return res;
+     List<String>ans=new ArrayList<>();
+     braces(0,0,0,n,"",ans);
+     return ans;
     }
 }
