@@ -36,6 +36,7 @@ A collection of leetcode problems and my solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -140,6 +141,7 @@ A collection of leetcode problems and my solutions.
 | [0070-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -348,6 +350,7 @@ A collection of leetcode problems and my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Binary Indexed Tree
 |  |
