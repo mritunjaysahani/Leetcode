@@ -1,5 +1,5 @@
 class Solution {
-    public static boolean possible(int arr[],int days,int m,int k){
+    public boolean possible(int arr[],int days,int m,int k){
         int n=arr.length;
         int cnt=0,tbouqt=0;
         for(int i=0;i<n;i++){
@@ -16,8 +16,7 @@ class Solution {
     }
     public int minDays(int[] arr, int m, int k) {
         int n=arr.length;
-        long val=(long)m*k;
-        if(val>n) return -1;
+        if((long)m*k>n) return -1;
         int mini=Integer.MAX_VALUE,maxi=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
             mini=Math.min(arr[i],mini);
