@@ -65,6 +65,7 @@ A collection of leetcode problems and my solutions.
 | [1675-magnetic-force-between-two-balls](https://github.com/mritunjay-255/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mritunjay-255/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/mritunjaysahani/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mritunjaysahani/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mritunjay-255/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
