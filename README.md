@@ -238,6 +238,7 @@ A collection of leetcode problems and my solutions.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mritunjaysahani/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mritunjay-255/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mritunjaysahani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -368,6 +369,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mritunjaysahani/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/mritunjaysahani/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Union-Find
 |  |
