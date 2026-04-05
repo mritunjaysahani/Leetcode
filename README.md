@@ -232,6 +232,7 @@ A collection of leetcode problems and my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mritunjaysahani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mritunjaysahani/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mritunjaysahani/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -263,6 +264,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0015-3sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mritunjaysahani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mritunjay-255/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -421,4 +423,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mritunjaysahani/Leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mritunjaysahani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
