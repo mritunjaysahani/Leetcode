@@ -366,6 +366,7 @@ A collection of leetcode problems and my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
