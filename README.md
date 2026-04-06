@@ -19,6 +19,7 @@ A collection of leetcode problems and my solutions.
 | [0073-set-matrix-zeroes](https://github.com/mritunjay-255/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mritunjaysahani/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mritunjaysahani/Leetcode/tree/master/0134-gas-station) |
@@ -174,6 +175,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mritunjay-255/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/mritunjaysahani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/mritunjaysahani/Leetcode/tree/master/0733-flood-fill) |
@@ -236,6 +238,7 @@ A collection of leetcode problems and my solutions.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mritunjaysahani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mritunjaysahani/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mritunjaysahani/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mritunjaysahani/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -362,6 +365,7 @@ A collection of leetcode problems and my solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/mritunjaysahani/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Binary Indexed Tree
@@ -403,6 +407,7 @@ A collection of leetcode problems and my solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
