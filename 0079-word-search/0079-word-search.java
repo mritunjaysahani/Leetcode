@@ -7,12 +7,19 @@ class Solution {
         }
         char temp=board[cr][cc];
         board[cr][cc]='*';
-        boolean s1=solve(cr-1,cc,ind+1,board,word);
-        boolean s2=solve(cr+1,cc,ind+1,board,word);
-        boolean s3=solve(cr,cc-1,ind+1,board,word);
-        boolean s4=solve(cr,cc+1,ind+1,board,word);
+        int row[]={-1,1,0,0};
+        int col[]={0,0,-1,1};
+        for(int i=0;i<row.length;i++){
+            boolean ans=solve(cr+row[i],cc+col[i],ind+1,board,word);
+            if(ans) return true;
+        }
+        // boolean s1=solve(cr-1,cc,ind+1,board,word);
+        // boolean s2=solve(cr+1,cc,ind+1,board,word);
+        // boolean s3=solve(cr,cc-1,ind+1,board,word);
+        // boolean s4=solve(cr,cc+1,ind+1,board,word);
         board[cr][cc]=temp;
-        return s1 || s2 || s3 || s4;
+       // return s1 || s2 || s3 || s4;
+       return false;
        
     }
     public boolean exist(char[][] board, String word) {
