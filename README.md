@@ -13,6 +13,7 @@ A collection of leetcode problems and my solutions.
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mritunjaysahani/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
@@ -364,6 +365,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mritunjaysahani/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
