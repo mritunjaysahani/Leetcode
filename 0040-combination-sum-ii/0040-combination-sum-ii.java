@@ -1,11 +1,9 @@
 class Solution {
     public void solve( int ind,int arr[],int target,List<Integer>ds,List<List<Integer>>ans){
-        //base case
         if(target==0){
             ans.add(new ArrayList<>(ds));
             return;
         }
-
         for(int i=ind;i<arr.length;i++){
             if(i>ind && arr[i]==arr[i-1]) continue;
             if(arr[i]>target) break;
