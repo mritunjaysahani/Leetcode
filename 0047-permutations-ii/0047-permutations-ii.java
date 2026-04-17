@@ -22,6 +22,5 @@ class Solution {
         boolean [] visited=new boolean[nums.length];
         solve(nums,visited,new ArrayList<>(),ans);
         return ans;
-        
     }
 }
