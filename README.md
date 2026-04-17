@@ -15,6 +15,7 @@ A collection of leetcode problems and my solutions.
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mritunjaysahani/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mritunjaysahani/Leetcode/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of leetcode problems and my solutions.
 | ------- |
 | [0015-3sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/mritunjaysahani/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0229-majority-element-ii) |
@@ -372,6 +374,7 @@ A collection of leetcode problems and my solutions.
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mritunjaysahani/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mritunjaysahani/Leetcode/tree/master/0077-combinations) |
