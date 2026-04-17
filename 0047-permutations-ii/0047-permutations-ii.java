@@ -1,20 +1,27 @@
 class Solution {
-     public void solve(int nums[],int ind,List<Integer>ds,Set<List<Integer>>ans){
+    public void solve(int nums[],boolean [] visited,List<Integer>ds,List<List<Integer>>ans){
         if(ds.size()==nums.length){
             ans.add(new ArrayList<>(ds));
             return;
         }
-        for(int i=0;i<=ds.size();i++){
-            ds.add(i,nums[ind]);
-            solve(nums,ind+1,ds,ans);
-            ds.remove(i);
 
+        for(int i=0;i<nums.length;i++){
+            if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) continue;
+            if(visited[i]) continue;
+            visited[i]=true;
+            ds.add(nums[i]);
+            solve(nums,visited,ds,ans);
+            ds.remove(ds.size()-1);
 
+            visited[i]=false;
         }
-     }
+    }
     public List<List<Integer>> permuteUnique(int[] nums) {
-       Set<List<Integer>>ans=new HashSet<>();
-        solve(nums,0,new ArrayList<>(),ans);
-        return new ArrayList<>(ans); 
+        Arrays.sort(nums);
+        List<List<Integer>>ans=new ArrayList<>();
+        boolean [] visited=new boolean[nums.length];
+        solve(nums,visited,new ArrayList<>(),ans);
+        return ans;
+        
     }
 }
