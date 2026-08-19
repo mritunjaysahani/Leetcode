@@ -297,6 +297,7 @@ A collection of leetcode problems and my solutions.
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/mritunjaysahani/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Trie
@@ -363,6 +364,7 @@ A collection of leetcode problems and my solutions.
 | [0142-linked-list-cycle-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mritunjaysahani/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
