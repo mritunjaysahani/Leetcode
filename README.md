@@ -465,4 +465,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
