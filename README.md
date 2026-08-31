@@ -363,6 +363,7 @@ A collection of leetcode problems and my solutions.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mritunjaysahani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mritunjay-255/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mritunjaysahani/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -374,6 +375,7 @@ A collection of leetcode problems and my solutions.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mritunjaysahani/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
