@@ -40,6 +40,7 @@ A collection of leetcode problems and my solutions.
 | [0238-product-of-array-except-self](https://github.com/mritunjay-255/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mritunjay-255/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mritunjaysahani/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/mritunjaysahani/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -297,6 +298,7 @@ A collection of leetcode problems and my solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/mritunjaysahani/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mritunjay-255/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/mritunjaysahani/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mritunjay-255/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
