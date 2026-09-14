@@ -52,6 +52,7 @@ A collection of leetcode problems and my solutions.
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/mritunjaysahani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/mritunjaysahani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -133,6 +134,7 @@ A collection of leetcode problems and my solutions.
 | [0349-intersection-of-two-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
@@ -180,6 +182,7 @@ A collection of leetcode problems and my solutions.
 | [0134-gas-station](https://github.com/mritunjaysahani/Leetcode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0890-lemonade-change](https://github.com/mritunjaysahani/Leetcode/tree/master/0890-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mritunjaysahani/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -293,6 +296,7 @@ A collection of leetcode problems and my solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/mritunjaysahani/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -321,6 +325,7 @@ A collection of leetcode problems and my solutions.
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/mritunjaysahani/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/mritunjaysahani/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -499,6 +504,7 @@ A collection of leetcode problems and my solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
 |  |
