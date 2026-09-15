@@ -64,6 +64,7 @@ A collection of leetcode problems and my solutions.
 | [0792-binary-search](https://github.com/mritunjay-255/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mritunjaysahani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/mritunjaysahani/Leetcode/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/mritunjaysahani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0948-sort-an-array) |
@@ -236,6 +237,7 @@ A collection of leetcode problems and my solutions.
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/mritunjaysahani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -363,6 +365,7 @@ A collection of leetcode problems and my solutions.
 | [0643-maximum-average-subarray-i](https://github.com/mritunjaysahani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mritunjaysahani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/mritunjay-255/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mritunjaysahani/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
