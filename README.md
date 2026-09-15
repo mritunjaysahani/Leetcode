@@ -56,6 +56,7 @@ A collection of leetcode problems and my solutions.
 | [0643-maximum-average-subarray-i](https://github.com/mritunjaysahani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mritunjaysahani/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -107,6 +108,7 @@ A collection of leetcode problems and my solutions.
 | [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mritunjay-255/Leetcode/tree/master/0792-binary-search) |
