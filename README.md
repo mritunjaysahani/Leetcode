@@ -531,4 +531,9 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
