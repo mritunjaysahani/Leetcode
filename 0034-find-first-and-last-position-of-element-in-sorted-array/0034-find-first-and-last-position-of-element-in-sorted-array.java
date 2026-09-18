@@ -34,10 +34,6 @@ class Solution {
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
-        int n=nums.length;
-        int arr[]=new int[2];
-        arr[0]=first(nums,target);
-        arr[1]=second(nums,target);
-        return arr;
+       return new int []{first(nums,target),second(nums,target)};
     }
 }
