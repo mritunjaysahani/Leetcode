@@ -63,6 +63,7 @@ A collection of leetcode problems and my solutions.
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mritunjaysahani/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mritunjay-255/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mritunjaysahani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/mritunjaysahani/Leetcode/tree/master/0890-lemonade-change) |
@@ -184,6 +185,7 @@ A collection of leetcode problems and my solutions.
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mritunjaysahani/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
