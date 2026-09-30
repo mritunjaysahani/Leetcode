@@ -1,27 +1,18 @@
 class Solution {
+    int fn(int ind,int nums[],int dp[]){
+        if(ind==0) return nums[ind];
+        if(ind<0) return 0;
+        if(dp[ind]!=-1) return dp[ind];
 
-    int solve(int[] nums, int i, int[] dp) {
-        if(i==0) return nums[i];
-
-        if (i < 0) return 0;
-
-        if (dp[i] != -1)
-            return dp[i];
-
-        int notTake = solve(nums, i - 1, dp);
-
-        int take = nums[i] + solve(nums, i - 2, dp);
-
-        return dp[i] = Math.max(take, notTake);
+        
+        int notake=fn(ind-1,nums,dp);
+        int take=nums[ind]+fn(ind-2,nums,dp);
+        return dp[ind]=Math.max(take,notake);
     }
-
     public int rob(int[] nums) {
-
-        int n = nums.length;
-
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
-
-        return solve(nums, n - 1, dp);
+        int n=nums.length;
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
+        return fn(n-1,nums,dp);
     }
 }
