@@ -18,6 +18,7 @@ A collection of leetcode problems and my solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mritunjay-255/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mritunjaysahani/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
@@ -178,6 +179,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mritunjaysahani/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0070-climbing-stairs) |
@@ -312,6 +314,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mritunjaysahani/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -330,6 +333,7 @@ A collection of leetcode problems and my solutions.
 | [0027-remove-element](https://github.com/mritunjaysahani/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mritunjaysahani/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mritunjay-255/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mritunjaysahani/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mritunjay-255/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mritunjaysahani/Leetcode/tree/master/0125-valid-palindrome) |
@@ -527,6 +531,7 @@ A collection of leetcode problems and my solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
