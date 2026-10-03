@@ -21,6 +21,7 @@ A collection of leetcode problems and my solutions.
 | [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mritunjaysahani/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mritunjaysahani/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mritunjaysahani/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mritunjaysahani/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mritunjaysahani/Leetcode/tree/master/0056-merge-intervals) |
@@ -157,6 +158,7 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mritunjaysahani/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/mritunjaysahani/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mritunjaysahani/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mritunjaysahani/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mritunjay-255/Leetcode/tree/master/0066-plus-one) |
@@ -217,6 +219,7 @@ A collection of leetcode problems and my solutions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mritunjaysahani/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mritunjay-255/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mritunjay-255/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0079-word-search) |
