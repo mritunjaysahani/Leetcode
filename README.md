@@ -68,6 +68,7 @@ A collection of leetcode problems and my solutions.
 | [0704-binary-search](https://github.com/mritunjaysahani/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mritunjaysahani/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/mritunjaysahani/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mritunjay-255/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/mritunjay-255/Leetcode/tree/master/0792-binary-search) |
@@ -331,6 +332,7 @@ A collection of leetcode problems and my solutions.
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/mritunjaysahani/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mritunjaysahani/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/mritunjay-255/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -552,6 +554,7 @@ A collection of leetcode problems and my solutions.
 | [0042-trapping-rain-water](https://github.com/mritunjaysahani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/mritunjaysahani/Leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/mritunjaysahani/Leetcode/tree/master/0962-maximum-width-ramp) |
 ## Bracket Sequences
 |  |
