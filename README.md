@@ -61,6 +61,7 @@ A collection of leetcode problems and my solutions.
 | [0498-diagonal-traverse](https://github.com/mritunjaysahani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/mritunjaysahani/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
@@ -216,6 +217,7 @@ A collection of leetcode problems and my solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mritunjay-255/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/mritunjay-255/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mritunjay-255/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -259,6 +261,7 @@ A collection of leetcode problems and my solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/mritunjay-255/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mritunjaysahani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/mritunjaysahani/Leetcode/tree/master/0904-fruit-into-baskets) |
