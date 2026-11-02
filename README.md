@@ -56,6 +56,7 @@ A collection of leetcode problems and my solutions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mritunjay-255/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mritunjaysahani/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/mritunjaysahani/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mritunjaysahani/Leetcode/tree/master/0494-target-sum) |
@@ -151,6 +152,7 @@ A collection of leetcode problems and my solutions.
 | [0242-valid-anagram](https://github.com/mritunjaysahani/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mritunjaysahani/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mritunjaysahani/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mritunjaysahani/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/mritunjay-255/Leetcode/tree/master/0645-set-mismatch) |
@@ -174,6 +176,7 @@ A collection of leetcode problems and my solutions.
 | [0202-happy-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mritunjaysahani/Leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mritunjaysahani/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/mritunjaysahani/Leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mritunjaysahani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mritunjaysahani/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
