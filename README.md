@@ -105,6 +105,7 @@ A collection of leetcode problems and my solutions.
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mritunjay-255/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mritunjay-255/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/mritunjaysahani/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mritunjaysahani/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of leetcode problems and my solutions.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mritunjay-255/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/mritunjay-255/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mritunjay-255/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mritunjaysahani/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/mritunjay-255/Leetcode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/mritunjaysahani/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
