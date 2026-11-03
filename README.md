@@ -339,6 +339,7 @@ A collection of leetcode problems and my solutions.
 | [0143-reorder-list](https://github.com/mritunjaysahani/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mritunjaysahani/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mritunjaysahani/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mritunjay-255/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/mritunjaysahani/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mritunjaysahani/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -599,4 +600,8 @@ A collection of leetcode problems and my solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mritunjaysahani/Leetcode/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mritunjaysahani/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
